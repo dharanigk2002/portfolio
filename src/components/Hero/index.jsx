@@ -28,7 +28,7 @@ export default function Hero() {
         <img
           src="https://res.cloudinary.com/db8p1prf2/image/upload/v1788707002/sjcjjxe2k6vkdgyq47es.jpg"
           alt="profile"
-          className="rounded-full shadow-lg w-full aspect-square object-cover"
+          className="rounded-full shadow-lg w-full aspect-square object-cover object-[center_20%]"
         />
         <div className="p-2 rounded-full bg-white dark:bg-gray-700 shadow-md grid place-content-center w-10 h-10">
           <img
