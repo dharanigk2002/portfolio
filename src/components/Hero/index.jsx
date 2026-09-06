@@ -26,7 +26,7 @@ export default function Hero() {
       </div>
       <div className="mt-10 md:mt-0 relative">
         <img
-          src="https://media.licdn.com/dms/image/v2/D5603AQHdzz0ZANV1Yw/profile-displayphoto-crop_800_800/B56Zj.6r7yHMAI-/0/1756623455400?e=1788393600&v=beta&t=N9UDo2lWv3hQlxuG-k-CwZrVJfhq27XxxTC1LiddzdE"
+          src="https://res.cloudinary.com/db8p1prf2/image/upload/v1788707002/sjcjjxe2k6vkdgyq47es.jpg"
           alt="profile"
           className="rounded-full shadow-lg"
           width={300}
