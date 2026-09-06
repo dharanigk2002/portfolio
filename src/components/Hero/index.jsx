@@ -24,13 +24,11 @@ export default function Hero() {
           </a>
         </div>
       </div>
-      <div className="mt-10 md:mt-0 relative">
+      <div className="mt-10 md:mt-0 relative w-75 h-75">
         <img
           src="https://res.cloudinary.com/db8p1prf2/image/upload/v1788707002/sjcjjxe2k6vkdgyq47es.jpg"
           alt="profile"
-          className="rounded-full shadow-lg"
-          width={300}
-          height={300}
+          className="rounded-full shadow-lg w-full aspect-square object-cover"
         />
         <div className="p-2 rounded-full bg-white dark:bg-gray-700 shadow-md grid place-content-center w-10 h-10">
           <img

@@ -6,7 +6,7 @@ import {
   FaPython,
   FaReact,
 } from "react-icons/fa";
-import { SiFlutter, SiMongodb, SiTailwindcss } from "react-icons/si";
+import { SiMongodb, SiTailwindcss } from "react-icons/si";
 import SkillCard from "./SkillCard";
 import { experiences } from "../../data/experiences";
 import ExperienceItem from "./ExperienceItem";
@@ -17,7 +17,6 @@ const skills = [
   { name: "CSS3", icon: <FaCss3Alt className="text-blue-600" /> },
   { name: "Node.js", icon: <FaNodeJs className="text-green-600" /> },
   { name: "Python", icon: <FaPython className="text-yellow-500" /> },
-  { name: "Flutter", icon: <SiFlutter className="text-blue-400" /> },
   { name: "MongoDB", icon: <SiMongodb className="text-green-700" /> },
   { name: "Tailwind", icon: <SiTailwindcss className="text-cyan-500" /> },
   { name: "Git", icon: <FaGitAlt className="text-red-500" /> },
