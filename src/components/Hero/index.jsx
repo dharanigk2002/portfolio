@@ -17,7 +17,8 @@ export default function Hero() {
             Let&apos;s connect
           </a>
           <a
-            href="#cv"
+            href="resume/Dharani_Eswar_GK_resume.pdf"
+            download="dharani_eswar_resume.pdf"
             className="px-4 py-2 text-blue-500 border hover:text-white hover:bg-blue-500 transition rounded"
           >
             Download CV
